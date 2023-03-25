@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IBeacon</string>
+    <string name="bt_not_found">Cihazınızda Bluetooth Bulunamadı.</string>
+    <string name="bt_on_try_again">Bluetooth Açıldı. Tekrar deneyin.</string>
+    <string name="bt_cant_on">Bluetooth Açılamadı.</string>
+    <string name="perm_dialog_header">Uygulamanın çalışması için konum izni vermelisiniz.</string>
+    <string name="perm_dialog_text">Konum izni vermek istiyor musunuz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="getting_information">Bilgiler Alınıyor...</string>
+    <string name="scan_beacons">Beaconları Ara</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IBeacon</string>
+    <string name="bt_not_found">No Bluetooth Found on Your Device.</string>
+    <string name="bt_on_try_again">" Bluetooth Turned On. Try again."</string>
+    <string name="bt_cant_on">Bluetooth Failed To Turn On.</string>
+    <string name="perm_dialog_header">You must grant location permission for the app to work.</string>
+    <string name="perm_dialog_text">Do you want to grant location permission?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="major" translatable="false">Major</string>
+    <string name="minor" translatable="false">Minor</string>
+    <string name="getting_information">Getting Info...</string>
+    <string name="scan_beacons">Scan Beacons</string>
+</resources>
